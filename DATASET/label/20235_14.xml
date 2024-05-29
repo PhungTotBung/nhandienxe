@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image_vehicle_dark_1</folder>
+	<filename>20235_14.jpg</filename>
+	<path>C:\Users\levie\OneDrive\Desktop\image_vehicle_dark_1 (1)\image_vehicle_dark_1\20235_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>61</ymin>
+			<xmax>480</xmax>
+			<ymax>82</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>36</ymin>
+			<xmax>462</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

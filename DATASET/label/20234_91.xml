@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_vehicle_dark</folder>
+	<filename>20234_91.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dataaa\image_vehicle_dark\image_vehicle_dark\20234_91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>20</ymin>
+			<xmax>446</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

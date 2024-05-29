@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_vehicle_dark_1</folder>
+	<filename>20235_20.jpg</filename>
+	<path>C:\Users\levie\OneDrive\Desktop\image_vehicle_dark_1 (1)\image_vehicle_dark_1\20235_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>32</ymin>
+			<xmax>439</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>

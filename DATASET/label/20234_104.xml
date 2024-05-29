@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_vehicle_dark</folder>
+	<filename>20234_104.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dataaa\image_vehicle_dark\image_vehicle_dark\20234_104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>224</ymin>
+			<xmax>281</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
